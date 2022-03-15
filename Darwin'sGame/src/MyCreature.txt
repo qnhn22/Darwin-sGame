@@ -1,0 +1,15 @@
+Frog
+orange
+ifenemy 6
+ifwall 4
+ifsame 4
+hop
+right
+go 0
+infect
+go 0
+
+Frog moves in 2 by 2 square in clockwise rotation.
+It infects any enemies in front.
+If facing wall or same species, it turns right and go back to step 0.
+
